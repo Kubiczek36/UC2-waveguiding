@@ -11,7 +11,11 @@ Total Internal Reflection (TIR) microscopy ... _blah blah blah -- this is not so
 Printing the waveguides with FDM printer
 ----------------------------------------
 
-Goal was to pull the melted PETG from the hotend and create thread as thin as possible. The g-code is in the end of this document. 
+![Extruding the waveguide](imgs/extruders_grey.png)
+
+Goal was to pull the melted PETG from the hotend and create thread as thin as possible. The g-code you may find in the [FDM_waveguides](FDM_waveguides) folder.
+
+![extrude](imgs/extrude.gif)
 
 The problem was, mainly with uneven and hardly controlable float of the filament. The created waveguides were later tested with weak signs of coupling.
 
