@@ -17,7 +17,9 @@ Goal was to pull the melted PETG from the hotend and create thread as thin as po
 
 ![extrude](imgs/extrude.gif)
 
-The problem was, mainly with uneven and hardly controlable float of the filament. The created waveguides were later tested with weak signs of coupling.
+The problem was, mainly with uneven and hardly controlable float of the filament. The created waveguides were later tested with weak signs of coupling. See following images
+
+![Coupling  into the FDM waveguides](imgs/IMG_5787.jpg) ![Coupling  into the FDM waveguides](imgs/IMG_5788.jpg)
 
 Spincoating approach
 --------------------
