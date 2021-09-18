@@ -46,23 +46,32 @@ The recipe for the second, more proffesional, photopolymer is following. The pro
 > 2. Spincoat for 30 s, ramp 7, 3 000 rpm
 > 3. Prebake 90 °C for 4,5 min
 > 4. 10 min wait
-> 5. Cure with razorblade mask for 33 s (_now I'm not so sure about the time... sorry_). While curing move with the diffusive foil before the laser output.
+> 5. Cure with razor blade mask for 33 s (_now I'm not so sure about the time... sorry_). While curing move with the diffusive foil before the laser output. TOgeather the dose should be min 300 mJ/cm^2
 > 6. Postbake on 90 °C for 4,5 min.
 > 7. Wait 1 hour
 > 8. Develop in Mr. DEV 5 for 90 s 
 > 9. Hardbake for 20 min at 120 °C
 
-The setup used for curing can be seen in the figure bellow. The intensity of beam passing throught the slit is 0,256 mW.
+With such a recipe have been created good enough waveguides, as you may see in the following figure.
+
+![MR DWL5 waveguide](imgs/9-1.png)
+
+The setup used for curing can be seen in the figure bellow. The intensity of beam passing throught the slit is 0,256 mW without the diffusive foil. The CAD model may be found in the [CAD](CAD/curing_setup) folder.
 
 ![Mask setup for curing](imgs/mask_setup.png)
 
+> Measure the beam intensity with the diffusive foil may be one of the next tasks.
 
+Designs
+-------
+
+All the designs may be found in the [CAD](./CAD) folder.
 
 ## Literature
 
 [1] R. Delille, M. G. Urdaneta, S. J. Moseley and E. Smela, "Benchtop Polymer MEMS," in Journal of Microelectromechanical Systems, vol. 15, no. 5, pp. 1108-1120, Oct. 2006, doi: [10.1109/JMEMS.2006.882610](10.1109/JMEMS.2006.882610).
 
-[2] -- to be refilled
+[2] Microresist technology: _mr-DWL Serie_. URL [cit. 16. 9. 2021]: [https://www.microresist.de/produkt/mr-dwl-series/](https://www.microresist.de/produkt/mr-dwl-series/)
 
 ### g-code for FDM
 
